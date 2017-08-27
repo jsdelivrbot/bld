@@ -1,0 +1,9 @@
+.App {
+	border: 6px solid #ddd;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+form a {
+	margin-left: 5px;
+}
